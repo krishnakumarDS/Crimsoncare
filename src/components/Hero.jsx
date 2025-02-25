@@ -39,7 +39,7 @@ const Hero = () => {
             Unleash the power of AI within Brainwave. Upgrade your productivity
             with CrimsonCare, the open AI chat app.
           </p>
-          <Button href="/pricing" className="text-lg mt-3" white>
+          <Button href="https://rubyflare.vercel.app/" className="text-lg mt-3" white>
             Get Started
           </Button>
         </div>
